@@ -15,16 +15,45 @@ Integrantes:
 - [Descripcion](#descripcion)
 - [Requerimientos](#requerimientos)
 - [Instrucciones](#instrucciones)
-- [Estructura del archivo de salida](#estructura-del-archivo-de-salida)
-- [Descripcion del contenido del sitio web](#descripcion-del-contenido-del-sitio-web)
+- [Resultados](#resultados)
 - [Contribuciones](#contribuciones)
-- [Jupyter Notebook](#jupyter-notebook)
+
 
 
 ## Descripcion:
-
+La tarea numero 3 consiste en la elaboaracion de la creacion de funciones para predecir y evaluar un modelo de Naive Bayes ára analisis de sentimiento, tambien cuenta con la integracion del pipeline de preprocesamiento y se realiza una seleccion de mejor modelo a partir de la iteracion de los valores de hyperparametros.
 
 ## Requerimientos:
 - Requiere instalacion de [Anaconda Distribution](https://www.anaconda.com/products/distribution) o [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 ## Instrucciones:
+
+
+
+## Resultados:
+![results_best_model](https://user-images.githubusercontent.com/70925688/177268184-00c3f1ee-3f1b-4832-a707-1ca9e5f5f11c.JPG)
+
+## Contribuciones
+
+- Aldo Montenegro Margnoni
+  - Tokenizacion y preparacion de data
+	- metodo de prueba de hyperparametros 
+<br/>
+
+- Gabriel Fernando Montenero Ortiz
+  - Optimizacion en metodo para remover stopwords
+	- organizacion de funciones en pipeline
+    
+<br/>
+
+- Axel Adolfo Muralles Carranza
+  - Elaboracion de clase para modelo, metodos fit, predict y val_test
+	- seleccion de Hyperparametros
+
+<br/>
+
+- German Antonio Oliva Muralles
+  - Pruebas para obtener mejor modelo
+	- Sanity Check
+
+<br/>
